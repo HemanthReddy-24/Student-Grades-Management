@@ -1,21 +1,21 @@
 [
     {
-        "username":"telugu001"
-        "password": "telugu1234"
+        "username":"telugu001",
+        "password": "telugu1234",
 
-        "username":"hindi002"
-        "password": "hindi1234"
+        "username":"hindi002",
+        "password": "hindi1234",
 
-        "username":"english003"
-        "password": "english1234"
+        "username":"english003",
+        "password": "english1234",
 
-        "user id" : "math004"
-        "password": "math1234"
+        "user id" : "math004",
+        "password": "math1234",
 
-        "user id" : "science005"
-        "password": "science1234"
+        "user id" : "science005",
+        "password": "science1234",
 
-        "user id":"social006"
+        "user id":"social006",
         "password":"social1234"
         
     }

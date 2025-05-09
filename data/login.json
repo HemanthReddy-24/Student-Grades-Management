@@ -1,0 +1,40 @@
+[
+    
+{
+ "username":"telugu001",
+ "password": "telugu1234",
+
+ "username":"hindi002",
+ "password": "hindi1234",
+
+ "username":"english003",
+ "password": "english1234",
+
+ "user id" : "math004",
+ "password": "math1234",
+
+ "user id" : "science005",
+ "password": "science1234",
+
+ "user id":"social006",
+ "password":"social1234",
+
+            "id": 1,
+            "name":"alice",
+            "class":12,
+            "age":16,
+    
+            "id":2,
+            "name":"bob",
+            "class":12,
+            "age" : 17,
+    
+            "id" : 3,
+            "name" :"charlie",
+            "class": 12,
+            "age" : 16
+
+}
+]
+          
+    
