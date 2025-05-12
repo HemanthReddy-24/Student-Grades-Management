@@ -1,0 +1,37 @@
+[
+    {
+        "Teacher ID":"telugu001",
+        "password": "telugu1234"
+    },
+     { "Teacher ID":"hindi002",
+         "password": "hindi1234"
+   }, 
+   { "Teacher ID":"english003",
+   "password": "english1234" 
+   },
+   { "Teacher ID" : "math004",
+   "password": "math1234"
+    },
+    {  "Teacher ID" : "science005",
+       "password": "science1234"
+    },
+    {"Teacher ID" :"social006",
+        "password" : "social1234"
+    },
+    {
+     "Student ID": 1,
+         "name": "Alice Johnson",
+        "password": "alice1234"          
+    },
+    {
+     "Student ID": 2,
+         "name": "Bob Smith",
+       "password":"smithbob0987"
+    },
+    {
+    "Student ID": 3,
+        "name": "Charlie Green",
+        "password": "greenc0609"
+      }
+
+]

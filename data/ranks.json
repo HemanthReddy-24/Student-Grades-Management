@@ -1,0 +1,28 @@
+[
+    {
+    "alice": {
+        "id": 1,
+        "password": "pass123",
+        "name": "Alice Johnson",
+        "age": 20,
+        "course": "Computer Science",
+        "score": 95
+    },
+    "bob": {
+        "id": 2,
+        "password": "bobpass",
+        "name": "Bob Smith",
+        "age": 21,
+        "course": "Mathematics",
+        "score": 88
+    },
+    "charlie": {
+        "id": 3,
+        "password": "charlie321",
+        "name": "Charlie Green",
+        "age": 22,
+        "course": "Physics",
+        "score": 91
+    }
+}
+]

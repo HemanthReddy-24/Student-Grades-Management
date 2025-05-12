@@ -1,21 +1,25 @@
 {
-    "S101": {
-      "name": "Ravi",
-      "phone": "9876543210",
-      "mother_name": "Lakshmi",
-      "father_name": "Krishna",
-      "address": "Hyderabad",
-      "marks": {
-        "maths": 85,
-        "science": 90,
-        "english": 78,
-        "social": 88,
-        "telugu": 92,
-        "hindi": 80
-      }
+  "students": [
+    {
+      "Student ID": 1,
+      "name": "Alice Johnson",
+      "age": 21,
+      "Parent Name": "Austin Johnson",
+      "Parent Contact": "9856423789"
     },
-    "S102": {
-      
+    {
+      "Student ID": 2,
+      "name": "Bob Smith",
+      "age": 20,
+      "Parent Name":"Mathew Smith",
+      "Parent Contact": 8309327683
+    },
+    {
+      "Student ID": 3,
+      "name": "Charlie Green",
+      "age": "21",
+      "Parent Name": "Rachel Green",
+      "Parent Contact": 7569527683
     }
-  }
-  
+  ]
+}
