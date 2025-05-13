@@ -5,7 +5,7 @@ def get_rankings(current_username):
     """
     # Build a list of (username, score) and sort by score descending
     ranking_list = sorted(
-        [(user, data["score"]) for user, data in student_db.items()],
+        [(user, data["score"]) for user, data in "student.db".items()],
         key=lambda x: x[1],
         reverse=True
     )

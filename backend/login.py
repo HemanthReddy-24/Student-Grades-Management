@@ -1,12 +1,12 @@
 def login(username_input, password_input):
-    if username_input in logins.json and password_input in logins.json:
+    if username_input in "logins.json" and password_input in "logins.json":
         return "Login successful!"
     else:
         return "Invalid username or password."
     
-
+    
 def login(username_input, password_input):
-    if username_input in logins.json and password_input in logins.json:
+    if username_input in "logins.json" and password_input in "logins.json":
         return "Login successful!"
     else:
         return "Invalid username or password."
@@ -19,5 +19,4 @@ def logout():
         print("👋 Logged out successfully.")
     else:
         print("❌ No user is currently logged in.")
-    
-    
+        

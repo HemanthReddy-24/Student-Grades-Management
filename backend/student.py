@@ -1,5 +1,6 @@
 #change password
 
+
 def change_password(username, old_password, new_password):
     """
     Allows a student to change their password.

@@ -1,0 +1,127 @@
+[
+    {
+        "timestamp": "2025-05-13 14:50:12",
+        "user_id": "T001",
+        "activity": "Logged in"
+    },
+    {
+        "timestamp": "2025-05-13 14:50:40",
+        "user_id": "T001",
+        "activity": "Logged out"
+    },
+    {
+        "timestamp": "2025-05-13 14:51:37",
+        "user_id": "S001",
+        "activity": "Logged in"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:08",
+        "user_id": "S001",
+        "activity": "Logged out"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:23",
+        "user_id": "T001",
+        "activity": "Logged in"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:37",
+        "user_id": "T001",
+        "activity": "Updated details for student Alice Johnson (ID: S001)"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:37",
+        "user_id": "T001",
+        "activity": "Updated details for student Bob Smith (ID: S002)"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:37",
+        "user_id": "T001",
+        "activity": "Updated details for student Charlie Brown (ID: S003)"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:37",
+        "user_id": "T001",
+        "activity": "Updated details for student Diana Prince (ID: S004)"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:37",
+        "user_id": "T001",
+        "activity": "Updated details for student Ethan Hunt (ID: S005)"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:44",
+        "user_id": "T001",
+        "activity": "Updated details for student ben (ID: S001)"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:44",
+        "user_id": "T001",
+        "activity": "Updated details for student Bob Smith (ID: S002)"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:44",
+        "user_id": "T001",
+        "activity": "Updated details for student Charlie Brown (ID: S003)"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:44",
+        "user_id": "T001",
+        "activity": "Updated details for student Diana Prince (ID: S004)"
+    },
+    {
+        "timestamp": "2025-05-13 15:00:44",
+        "user_id": "T001",
+        "activity": "Updated details for student Ethan Hunt (ID: S005)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:32",
+        "user_id": "T001",
+        "activity": "Updated details for student ben (ID: S001)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:32",
+        "user_id": "T001",
+        "activity": "Updated details for student Bob Smith (ID: S002)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:32",
+        "user_id": "T001",
+        "activity": "Updated details for student Charlie Brown (ID: S003)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:32",
+        "user_id": "T001",
+        "activity": "Updated details for student Diana Prince (ID: S004)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:32",
+        "user_id": "T001",
+        "activity": "Updated details for student Ethan Hunt (ID: S005)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:41",
+        "user_id": "T001",
+        "activity": "Updated details for student ben (ID: S001)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:41",
+        "user_id": "T001",
+        "activity": "Updated details for student bob (ID: S002)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:41",
+        "user_id": "T001",
+        "activity": "Updated details for student Charlie Brown (ID: S003)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:41",
+        "user_id": "T001",
+        "activity": "Updated details for student Diana Prince (ID: S004)"
+    },
+    {
+        "timestamp": "2025-05-13 15:01:41",
+        "user_id": "T001",
+        "activity": "Updated details for student Ethan Hunt (ID: S005)"
+    }
+]
